@@ -34,7 +34,7 @@ By playing this game, users can enhance the value and variety of their NFTs whil
 -    Players can initiate battles to conquer other players’ stars.
 -    If a player wins a battle, the NFT ownership is transferred to the winner.
 -    If all the stars in the galaxy have NFTs minted, the game operator will create a new galaxy. (Here, the number of stars in the galaxy is limited.)
--    Galaxies can battle each other in tournaments, and the results of the battles will affect the prices of NFTs in that galaxy.
+-    Galaxies can battle each other in tournaments, and the result of the battle will have a significant impact on the leaderboard rankings of teams within that galaxy.
 
 2.   **Battle Logic**
    - Individual Battles
@@ -51,7 +51,7 @@ By playing this game, users can enhance the value and variety of their NFTs whil
 
         Rewards:
 
-        - Galaxy-wide NFT price boost
+        - Galaxy-wide team ranking boost
 
         - Reputation ranking on a leaderboard
 
